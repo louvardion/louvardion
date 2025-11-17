@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning C and exploring low-level graphics rendering.
 
-💞️ I’m looking to collaborate on projects involving real-time rendering, procedural generation, and game engines.
+💞️ I’m looking to collaborate on projects involving UI/UX design and Fullstack programming.
 
 📫 How to reach me: [deigoverse.bus@gmail.com / LinkedIn: https://www.linkedin.com/in/diego-amaral-017865197/ / discord: .pinguela]
 
