@@ -1,4 +1,4 @@
-👋 Hi, I’m @louvardion
+👋 Hi, I’m Diego!
 
 👀 I’m interested in graphics programming, and performance optimization.
 
